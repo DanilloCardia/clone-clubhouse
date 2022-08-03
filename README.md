@@ -2,7 +2,7 @@
 
 ## Demonstration
 
-<img src="https://macmagazine.com.br/wp-content/uploads/2021/02/08-clubhouse-2-623x1260.png" alt="Exemplo">
+<img src="./assets/clubhouse.png" alt="Exemplo">
 
 ## Techs
 
